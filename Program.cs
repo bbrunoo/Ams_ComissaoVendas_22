@@ -10,3 +10,8 @@ if (n = 10){
 }
 
 Console.WriteLine("Fim da execução");
+
+
+double naosei = 0.0;
+
+Console.WriteLine(naosei);
