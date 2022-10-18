@@ -17,3 +17,5 @@ double naosei = 0.0;
 Console.WriteLine(naosei);
 
 double mb = 0.0;
+Console.WriteLine(mb);
+
