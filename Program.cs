@@ -25,3 +25,6 @@ Console.WriteLine(mb2);
 
 double mb3 = 0.0;
 Console.WriteLine(mb3);
+
+int io = 0;
+Console.WriteLine(io);
