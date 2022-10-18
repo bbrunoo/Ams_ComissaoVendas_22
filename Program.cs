@@ -22,3 +22,6 @@ Console.WriteLine(mb);
 double mb2 = 0.0;
 Console.WriteLine(mb2);
 
+
+double mb3 = 0.0;
+Console.WriteLine(mb3);
